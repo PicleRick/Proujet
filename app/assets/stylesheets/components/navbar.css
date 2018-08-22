@@ -3,10 +3,10 @@
 	list-style-type: none;
 	margin-top: -7px;
 	padding-bottom: -10px;
+	background-color:#ED4817 !important ;
 }
 nav{
-	background-color:#283747; 
-	padding-right: -100px;
+	background-color:#ED4817 !important ;
 }
 .navbar li{
 	list-style-type: none;

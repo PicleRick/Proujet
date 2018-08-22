@@ -1,8 +1,8 @@
 .btn-blue{
-    background-color: #0BAE35;
+    background-color:#ED4817 ;
     border: 1px solide black;
 	border-radius: 5px;
-    color: white;
+    color: #1C2833;
     padding: 15px 32px;
     text-align: center;
 
@@ -11,6 +11,6 @@
    	margin-left: 550px;
 }
 button:hover{
-    background-color: #0DD1D1;
+    background-color:white;
     color:#1C2833;
 }
